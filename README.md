@@ -1,11 +1,7 @@
-## Hi there 👋 I'm Han MingYun 👋
-
-I'm a passionate Full-Stack Developer with over 9 years of experience, specializing in building high-quality web applications using **React.js**, **Next.js**, and **Node.js**, etc. My expertise spans across various technologies and frameworks, allowing me to develop robust and user-friendly solutions.
-
 ## 🚀 Skills
 - **Frontend:** React.js, Next.js, Angular, Tailwind CSS...
 - **Backend:** Node.js, ASP.Net Core, Java/Spring Boot, PHP
-- **Databases:** MongoDB, MySQL, SQL Server
+- **Databases and ORMs:** MongoDB, MySQL, SQL Server, TypeORM, Sequelize, Prisma
 - **DevOps:** Docker, AWS
 
 ## 💼 Work Experience
