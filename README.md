@@ -1,4 +1,4 @@
-## 🚀 Skills
+## 🚀 Skills ![](https://komarev.com/ghpvc/?username=railway17)
 - **Frontend:** React.js, Next.js, Angular, Tailwind CSS...
 - **Backend:** Node.js, ASP.Net Core, Java/Spring Boot, PHP
 - **Databases and ORMs:** MongoDB, MySQL, SQL Server, TypeORM, Sequelize, Prisma
